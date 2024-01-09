@@ -6,8 +6,11 @@ Data Analysis, particularly Exploratory Data Analysis (EDA), holds a pivotal rol
 
 # Project Scope
  -Data Preparation: Primarily focused on data cleaning and manipulation to ensure robust analysis.
+ 
  -Exploratory Analysis: Leveraged Pandas, NumPy, Matplotlib, and Seaborn for comprehensive exploratory insights.
+ 
  -Enhancing Customer Experience: Identified potential customer segments across diverse demographics (state, occupation, gender, age groups) to refine customer engagement strategies.
+ 
  -Sales Optimization: Identified high-performing product categories and items to streamline inventory planning and meet market demands effectively.
 
 # Key Insights
